@@ -1,1 +1,1 @@
-# weather_app_js
+# Weather App with JS, Bootstrap, REST API
